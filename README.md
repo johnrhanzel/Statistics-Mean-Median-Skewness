@@ -31,4 +31,5 @@ This program requires the installation of numpy via https://pypi.org/project/num
 
 Copyright ©2021 https://github.com/johnrhanzel
 All rights reserved. 
+
 Program is open source, no license agreement is needed.
