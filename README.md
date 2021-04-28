@@ -25,6 +25,7 @@ It is a console program what asks for the user input and calculate the user inpu
 Installation notes
 ----------------------------------------------------------------------------------
 This program requires the installation of statistics via https://pypi.org/project/statistics/
+
 This program requires the installation of numpy via https://pypi.org/project/numpy/
 
 
