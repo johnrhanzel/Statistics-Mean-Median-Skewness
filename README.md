@@ -3,10 +3,15 @@
 Hi 👋, I'm John Rhanzel
 
 A passionate software developer from Philippines
+
 👯 I’m looking to collaborate on C# Project and Python Projects
+
 🌱 I’m currently learning Xamarin Forms, Kotlin and Python
+
 📫 How to reach me @rhanzel1016@gmail.com
+
 👨‍💻 All of my projects are available at https://github.com/johnrhanzel
+
 📝 I write articles on https://hashnode.com/@johnrhanzel
 
 
