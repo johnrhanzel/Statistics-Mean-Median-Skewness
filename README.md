@@ -12,8 +12,4 @@ This program requires the installation of statistics via https://pypi.org/projec
 
 This program requires the installation of numpy via https://pypi.org/project/numpy/
 
-
-Copyright ©2021 https://github.com/johnrhanzel
-All rights reserved. 
-
 Program is open source, no license agreement is needed.
